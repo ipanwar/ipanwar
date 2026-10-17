@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/anime.gif" width="800" alt="Animated eye"> 
+<img src="./assets/anime.gif" width="1200" alt="Animated eye"> 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&width=650&height=45&lines=MERN+Stack+Developer;Building+useful%2C+full-stack+experiences;Exploring+FastAPI+%26+Docker" alt="Animated text: MERN stack developer, building full-stack experiences, exploring FastAPI and Docker" />
 
