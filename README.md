@@ -2,7 +2,7 @@
 
 <img src="./assets/chill.gif" width="1400" alt="Animated eye"> 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&width=650&height=45&lines=MERN+Stack+Developer;Building+useful%2C+full-stack+experiences;Exploring+FastAPI+%26+Docker" alt="Animated text: MERN stack developer, building full-stack experiences, exploring FastAPI and Docker" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&width=650&height=45&lines=MERN+Stack+Developer;Building+useful%2C+full-stack+experiences;Exploring+FastAPI+%26+Docker" alt="Animated text:Hey, I am Ishant Panwar, MERN stack developer, building full-stack experiences, exploring FastAPI and Docker" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-ipanwar-16161A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ipanwar)
 
