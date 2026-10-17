@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:5B8DEF,100:2CB67D&height=210&section=header&text=ISHANT%20PANWAR&fontSize=46&fontColor=fffffe&fontAlignY=38&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%7C%20INDIA&descAlignY=60&descSize=16" alt="Animated gradient banner introducing Ishant Panwar, full-stack developer from India" width="100%" />
+<img src="./assets/anime.gif" width="400" alt="Animated eye"> 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&width=650&height=45&lines=MERN+Stack+Developer;Building+useful%2C+full-stack+experiences;Exploring+FastAPI+%26+Docker" alt="Animated text: MERN stack developer, building full-stack experiences, exploring FastAPI and Docker" />
 
